@@ -1,0 +1,47 @@
+item.Cooked_egg.name=Fried egg
+item.Caramel.name=Fudge
+item.Raw_egg.name=Raw egg
+item.Raw_skewered_beef.name=Raw beef skewer
+item.Raw_skewered_pig.name=Raw pork skewer
+item.Raw_skewered_zombie.name=Raw zombie skewer (yurk !)
+item.Cooked_skewered_beef.name=Cooked beef skewer
+item.Cooked_skewered_pig.name=Cooked pork skewer
+item.Cooked_skewered_zombie.name=Cooked zombie skewer
+item.Omelet.name=Omelet
+item.CookedMushroom.name=Cooked mushroom
+item.CarrotStew.name=Carrot stew
+item.PotatoStew.name=Potatoe stew
+item.PumpkinJuice.name=Pumpkin juice
+item.WoodGrid.name=Wooden grid
+item.BiggerStick.name=Reinforced stick
+item.GreenHealingPowder.name=Green healing medicine
+item.RedHealingPowder.name=Red healing medicine
+item.YellowHealingPowder.name=Yellow healing medicine
+item.CurativePowder.name=Curative powder
+item.HastePowder.name=Haste powder
+item.IronPowder.name=Iron powder
+item.FlintPowder.name=Flint powder
+item.SteelCompound.name=Steel compound
+item.SteelIngot.name=Steel ingot
+item.BreakingHammer.name=Smasher
+
+item.FlintSword.name=Flint sword
+item.FlintAxe.name=Flint axe
+item.FlintShovel.name=Flint shovel
+item.FlintPickaxe.name=Flint pickaxe
+item.FlintHoe.name=Flint hoe
+item.SteelShears.name=Steel shears
+item.SteelSword.name=Steel sword
+item.SteelHoe.name=Steel hoe
+item.SteelShovel.name=Steel shovel
+item.SteelAxe.name=Steel axe
+item.SteelPickaxe.name=Steel pickaxe
+
+item.SteelLegging.name=Steel legging
+item.SteelBoots.name=Steel boots
+item.SteelHelmet.name=Steel helmet
+item.SteelChestplate.name=Steel chestplate
+
+itemGroup.tabVanillaFood=Vanilla Food
+
+tile.CampFire.name=Campfire

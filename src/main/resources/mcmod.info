@@ -1,0 +1,16 @@
+[
+{
+  "modid": "firstmod",
+  "name": "My first minecraft mod",
+  "description": "let's practice the basics of minecraft modding",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MTLCRBN"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

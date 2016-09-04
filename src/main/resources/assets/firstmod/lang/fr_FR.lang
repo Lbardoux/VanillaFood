@@ -1,0 +1,47 @@
+item.Cooked_egg.name=Oeuf au plat
+item.Caramel.name=Caramel mou
+item.Raw_egg.name=Oeuf cru
+item.Raw_skewered_beef.name=Brochette de boeuf crue
+item.Raw_skewered_pig.name=Brochette de porc crue
+item.Raw_skewered_zombie.name=Brochette de zombie crue (beurk !)
+item.Cooked_skewered_beef.name=Brochette de boeuf cuite
+item.Cooked_skewered_pig.name=Brochette de porc cuite
+item.Cooked_skewered_zombie.name=Brochette de zombie cuite
+item.Omelet.name=Omelette
+item.CookedMushroom.name=Champignon cuit
+item.CarrotStew.name=Soupe de carottes
+item.PotatoStew.name=Soupe de patates
+item.PumpkinJuice.name=Jus de citrouille
+item.WoodGrid.name=Grillage en bois
+item.BiggerStick.name=batônnet renforcé
+item.GreenHealingPowder.name=Poudre médicinale de soin verte
+item.RedHealingPowder.name=Poudre médicinale de soin rouge
+item.YellowHealingPowder.name=Poudre médicinale de soin jaune
+item.CurativePowder.name=Poudre de guérison
+item.HastePowder.name=Poudre de célérité
+item.IronPowder.name=Poudre de fer
+item.FlintPowder.name=Poudre de silex
+item.SteelCompound.name=Acier malléable
+item.SteelIngot.name=Lingot d'acier
+item.BreakingHammer.name=Fracasseur
+
+item.FlintSword.name=Epée en silex
+item.FlintAxe.name=Hache en silex
+item.FlintShovel.name=Pelle en silex
+item.FlintPickaxe.name=Pioche en silex
+item.FlintHoe.name=Houe en silex
+item.SteelShears.name=Ciseau en acier
+item.SteelSword.name=Epée en acier
+item.SteelHoe.name=Houe en acier
+item.SteelShovel.name=Pelle en acier
+item.SteelAxe.name=Hache en acier
+item.SteelPickaxe.name=Pioche en acier
+
+item.SteelLegging.name=Jambières en acier
+item.SteelBoots.name=Bottes en acier
+item.SteelHelmet.name=Casque en acier
+item.SteelChestplate.name=Plastron en acier
+
+itemGroup.tabVanillaFood=Vanilla Food
+
+tile.CampFire.name=Feu de camp
